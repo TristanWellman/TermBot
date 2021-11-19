@@ -5,6 +5,7 @@ TermBot is a discord bot written in the c programming language.
 The idea for this bot came from another program I made called Vstat which dsplays system information in your teminal like Neofetch.
 
 To use TermBot use ">help"
+
 Prefix ">"
 
 Commands:
