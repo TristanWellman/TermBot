@@ -9,8 +9,14 @@ Prefix ">"
 
 Commands:
 >help - sends help
+>
 >test - simple test
+>
 >lspci - displays the pcie device in the TermBot server.
+>
 >cpu - displays the CPU conponents in the TermBot server.
+>
 >mem - displays the ammount of max and free memory the TermBot server has.
+>
 >tree - lists an up to date TermBot directory list.
+>
